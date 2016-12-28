@@ -1,0 +1,33 @@
+{
+ "messages": [
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"generic",
+          "elements":[
+            {
+              "title":"Obrigado por adquirir o produto .... Dentro de 50min. seu produto será entregue.",
+              "image_url":"http://imagizer.imageshack.us/480x270f/924/HViMoz.png",
+              "subtitle":"",
+              "buttons":[]
+            }
+          ]
+        }
+      }
+    },
+	{
+      "text":  "",
+      "quick_replies": [
+        {
+          "title":"Concluir",
+          "block_names":["Block1"]
+        },
+		{
+          "title":"Avaliar serviço",
+          "block_names":["Block1"]
+        }
+      ]
+    }
+  ]
+}

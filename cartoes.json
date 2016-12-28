@@ -1,0 +1,38 @@
+{
+ "messages": [
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"generic",
+          "elements":[
+            {
+              "title":"xxxx.xxxx.xxxx.3322",
+              "image_url":"https://www.cartaoacredito.com/wp-content/uploads/2015/05/bandeira-elo.jpg",
+              "subtitle":"",
+              "buttons":[
+                {
+                  "type":"web_url",
+                  "url":"https://petersapparel.parseapp.com/view_item?item_id=100",
+                  "title":"Selecionar"
+                }
+              ]
+            },
+            {
+              "title":"xxxx.xxxx.xxxx.3311",
+              "image_url":"http://www.lendomais.com.br/wp-content/uploads/2012/04/Visa.jpg",
+              "subtitle":"",
+              "buttons":[
+                {
+                  "type":"web_url",
+                  "url":"https://petersapparel.parseapp.com/view_item?item_id=101",
+                  "title":"Selecionar"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
