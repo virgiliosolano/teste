@@ -11,11 +11,6 @@
               "type": "show_block",
               "block_name": "mostrar cardapio",
               "title": "Ver cardápio!"
-            },
-            {
-              "type": "web_url",
-              "url": "https://petersapparel.parseapp.com/buy_item?item_id=100",
-              "title": "Buy Item"
             }
           ]
         }
