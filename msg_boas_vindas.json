@@ -1,20 +1,16 @@
 {
-  "messages": [
-    {
-      "attachment": {
-        "type": "template",
-        "payload": {
-          "template_type": "button",
-          "text": "Hello!",
-          "buttons": [
-            {
-              "type": "show_block",
-              "block_name": "some block name",
-              "title": "Show the block!"
-            },
-          ]
-        }
-      }
-    }
-  ]
+	"messages": [{
+		"attachment": {
+			"type": "template",
+			"payload": {
+				"template_type": "button",
+				"text": "Hello!",
+				"buttons": [{
+					"type": "show_block",
+					"block_name": "some block name",
+					"title": "Show the block!"
+				}]
+			}
+		}
+	}]
 }
