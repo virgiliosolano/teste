@@ -11,7 +11,7 @@
               "type": "show_block",
               "block_name": "some block name",
               "title": "Show the block!"
-            },
+            }
           ]
         }
       }
